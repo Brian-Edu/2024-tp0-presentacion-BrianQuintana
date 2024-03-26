@@ -7,4 +7,4 @@
 
 ___
 
-*<p>Hola, soy Brian tengo 21 años, me interesa la programacion y como se relacionan e influyen las partes de los sistemas, disfruto pasar tiempo haciendo algun deporte, frente al monitor, escuchando musica o en familia. Tengo grandes espectativas este año y espero que a todos les valla bien</p>*
+*<p>Hola, soy Brian tengo 21 años, me interesa la programacion y como se relacionan e influyen las partes de los sistemas, disfruto pasar tiempo haciendo algun deporte, frente al monitor, escuchando musica o en familia. Tengo grandes espectativas este año y espero que a todos cumplan las suyas</p>*
